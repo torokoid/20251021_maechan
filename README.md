@@ -240,6 +240,8 @@ p.note { display: none; }
     
 <h2><span class="yellow">仏像様が僧侶？</span></h2>
 <a href="20251021_035.JPG" target="_blank"><img src="20251021_035.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">一般的なお寺の仏像様はこれが多数派</span></h2>
 <a href="20251021_036.JPG" target="_blank"><img src="20251021_036.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251021_037.JPG" target="_blank"><img src="20251021_037.JPG" alt="サンプル画像" class="responsive-media"></a>
     
